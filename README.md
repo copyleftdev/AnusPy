@@ -5,6 +5,9 @@ AnusPy is a revolutionary project at the crossroads of unconventional human-comp
 
 This project aims to break barriers and redefine the conventional methods of interaction with computer systems, making coding more accessible and introducing a completely new way of expression.
 
+Inspired by this video [![IMAGE ALT TEXT](http://img.youtube.com/vi/0X2wWg3lz6s/0.jpg)](http://www.youtube.com/watch?v=0X2wWg3lz6s "Video Title")
+
+
 ## Prerequisite
 
 - The AnusPy device.
